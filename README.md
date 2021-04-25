@@ -1,2 +1,2 @@
 # NLW-5
-Aplicação em NodeJS, ocorrido no evento NLW da Rocketseat. 
+Chat de suporte ao usuário, realizado na semana do NLW #05 da Rocketseat.
