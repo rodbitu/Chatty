@@ -29,8 +29,8 @@ O Chatty é um chat para atendimento de clientes em tempo real.
 - Clone o repositório
 - Caso ainda não tenha o arquivo `database.sqlite` dentro da pasta `src/database`, crie esse arquivo e rode `yarn typeorm migration:run` para criar as tabelas do banco de dados.
 - Rode o `yarn dev` para iniciar a aplicação.
-- Access localhost Client: http://localhost:3333/pages/client
-- Access localhost Admin: http://localhost:3333/pages/admin
+- Acesso localhost Cliente: http://localhost:3333/pages/client
+- Acesso localhost Admin: http://localhost:3333/pages/admin
 
 ## 📄 Licença
 
